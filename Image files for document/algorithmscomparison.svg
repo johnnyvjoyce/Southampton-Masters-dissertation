@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="211.961pt" height="85.81pt" viewBox="0 0 211.961 85.81">
+<g enable-background="new">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -.0000038146974 85.81)" font-size="8.9664" font-family="CMMI9" font-style="italic"><tspan y="-75.225" x="1.993 9.210953 13.67622 16.581336 21.046603 26.345746 30.757214 37.795839 42.081777 46.376684 50.84195 53.747064 58.54409">ColourResolve</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -.0000076293949 85.81)" font-size="8.9664" font-family="CMMI9" font-style="italic"><tspan y="-76.097" x="109.943 117.16095 121.62622 124.531337 128.9966 134.29575 138.70722 145.7548 150.04074 154.33565 158.80092 161.69707 166.49408 170.78002 177.99797 182.46324 190.5868 195.21347 198.11859 202.40453 205.73107">ColourResolveComplete</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -.000011205673 85.81)" font-size="8.9664" font-family="CMMI9" font-style="italic"><tspan y="-4.359" x="2.423 9.640953 14.10622 17.011336 21.476603 26.775746 31.187214 38.41413 43.713274 48.12474 51.451276 56.337965 59.494138">ColourCurtail</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -.0000076293949 85.81)" font-size="8.9664" font-family="CMMI9" font-style="italic"><tspan y="-5.23" x="110.373 117.59095 122.05622 124.961338 129.4266 134.72576 139.13722 146.36415 151.6633 156.07477 159.4013 164.288 167.44417 170.34929 177.56725 182.03252 190.15608 194.78275 197.68787 201.9738 205.30034">ColourCurtailComplete</tspan></text>
+<path transform="matrix(1,0,0,-1,159.956,78.338)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -13.80664 7.67133 L -112.48573 62.48936 "/>
+<path transform="matrix(-.87416,-.4856,-.4856,.87416,47.47026,15.848637)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M -1.19551 1.59401 C -1.09587 .99626 0 .09961 .29886 0 C 0 -.09961 -1.09587 -.99626 -1.19551 -1.59401 "/>
+<path transform="matrix(1,0,0,-1,159.956,78.338)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 0 7.67133 L 0 61.74112 "/>
+<path transform="matrix(0,-1,-1,-0,159.956,16.596879)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M -1.19551 1.59401 C -1.09587 .99626 0 .09961 .29886 0 C 0 -.09961 -1.09587 -.99626 -1.19551 -1.59401 "/>
+<path transform="matrix(1,0,0,-1,159.956,78.338)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -51.77507 0 L -93.93965 0 "/>
+<path transform="matrix(-1,-0,0,1,66.01634,78.338)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M -1.19551 1.59401 C -1.09587 .99626 0 .09961 .29886 0 C 0 -.09961 -1.09587 -.99626 -1.19551 -1.59401 "/>
+<path transform="matrix(1,0,0,-1,159.956,78.338)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -127.56062 7.67133 L -127.56062 61.74112 "/>
+<path transform="matrix(0,-1,-1,-0,32.39537,16.596879)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M -1.19551 1.59401 C -1.09587 .99626 0 .09961 .29886 0 C 0 -.09961 -1.09587 -.99626 -1.19551 -1.59401 "/>
+<path transform="matrix(1,0,0,-1,159.956,78.338)" stroke-width=".3985" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M -52.20517 70.867 L -93.50957 70.867 "/>
+<path transform="matrix(-1,-0,0,1,66.44643,7.4710009)" stroke-width=".31879" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M -1.19551 1.59401 C -1.09587 .99626 0 .09961 .29886 0 C 0 -.09961 -1.09587 -.99626 -1.19551 -1.59401 "/>
+</g>
+</svg>
